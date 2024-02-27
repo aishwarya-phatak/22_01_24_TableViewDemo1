@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		687098952B8DAAEA00BD286E /* StudentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687098942B8DAAEA00BD286E /* StudentViewController.swift */; };
 		6871B5DC2B8C5C3800AC423E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6871B5DB2B8C5C3800AC423E /* AppDelegate.swift */; };
 		6871B5DE2B8C5C3800AC423E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6871B5DD2B8C5C3800AC423E /* SceneDelegate.swift */; };
 		6871B5E02B8C5C3800AC423E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6871B5DF2B8C5C3800AC423E /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		687098942B8DAAEA00BD286E /* StudentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentViewController.swift; sourceTree = "<group>"; };
 		6871B5D82B8C5C3800AC423E /* 22_01_24_TableViewDemo1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 22_01_24_TableViewDemo1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6871B5DB2B8C5C3800AC423E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6871B5DD2B8C5C3800AC423E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				6871B5E92B8C5C3900AC423E /* Info.plist */,
 				6871B5EF2B8C60B800AC423E /* StudentTableViewCell.swift */,
 				6871B5F02B8C60B800AC423E /* StudentTableViewCell.xib */,
+				687098942B8DAAEA00BD286E /* StudentViewController.swift */,
 			);
 			path = 22_01_24_TableViewDemo1;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				687098952B8DAAEA00BD286E /* StudentViewController.swift in Sources */,
 				6871B5E02B8C5C3800AC423E /* ViewController.swift in Sources */,
 				6871B5DC2B8C5C3800AC423E /* AppDelegate.swift in Sources */,
 				6871B5DE2B8C5C3800AC423E /* SceneDelegate.swift in Sources */,
